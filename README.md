@@ -1,9 +1,9 @@
 ## Libraries
-pandas
-nlp
-sklearn
-seaborn
-matplotlib
+pandas<br>
+nlp<br>
+sklearn<br>
+seaborn<br>
+matplotlib<br>
 
 ## Project Done By
 Melina Shakya

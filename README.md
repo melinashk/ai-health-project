@@ -17,7 +17,7 @@ matplotlib<br>
 
 ----
 
-## Project Done By
+## Project Contributors
 Melina Shakya<br>
 Birat Shankar Shrestha<br>
 Sushant Subedi<br>

@@ -1,5 +1,5 @@
 # Dental Data Classification using Artificial Intelligence
-Artificial Intelligence projcet for the internal evaluation of COMP 472, Kathmandu University
+Artificial Intelligence projcet for the internal evaluation of COMP 472
 
 ----
 

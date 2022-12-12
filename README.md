@@ -17,14 +17,14 @@ matplotlib<br>
 
 ----
 
+## Dataset
+Data was taken from the OPD card of dental department. The data was further extracted on the excel sheet and converted into a csv file.
+
+----
+
 ## Project Contributors
 Melina Shakya<br>
 Birat Shankar Shrestha<br>
 Sushant Subedi<br>
-
-----
-
-## Dataset
-Data was taken from the OPD card of dental department. The data was further extracted on the excel sheet and converted into a csv file.
 
 ----

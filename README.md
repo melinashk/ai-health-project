@@ -10,7 +10,7 @@ In this growing world of Information Technology, Artificial Intelligence is also
 
 ## Libraries
 pandas<br>
-nlp<br>
+nltk<br>
 sklearn<br>
 seaborn<br>
 matplotlib<br>
